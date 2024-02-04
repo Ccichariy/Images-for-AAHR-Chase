@@ -3,3 +3,4 @@ $ ./configure
 $ make
 sudo make install
 sudo ldconfig /usr/local/lib
+/usr/local/bin/convert logo: logo.gif
