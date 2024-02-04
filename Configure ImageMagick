@@ -1,3 +1,4 @@
 $ cd ImageMagick-7.1.1
 $ ./configure
 $ make
+sudo make install
